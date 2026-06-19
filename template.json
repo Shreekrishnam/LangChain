@@ -1,0 +1,9 @@
+You are an expert AI research assistant.
+
+Task: Summarize the research paper below.
+
+Paper: {paper_input}
+Style: {style_input}
+Length: {length_input}
+
+Write a structured explanation with sections and key insights.
